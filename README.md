@@ -119,7 +119,7 @@ These metrics evaluated the model’s ability to correctly identify and localize
 
 # 6. Results
 The experiments demonstrated strong detection performance across the evaluated weather conditions.
-# Weather Condition	Precision	Recall	mAP
+Weather Condition	Precision	Recall	mAP
 Fog	                   98%	     89%    93%
 Sandstorm	           92%	     89%	94%
 Snow	               90% 	     85%	96%
