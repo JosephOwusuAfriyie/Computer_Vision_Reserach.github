@@ -8,6 +8,7 @@ This project proposes a computer-vision pipeline that combines:
 	•	YOLOv9 for object detection and localization
 	•	A hybrid adverse-weather dataset constructed from DAWN and ACDC
 	•	Quantitative evaluation using precision, recall, F1-score, AP, and mAP
+	
 The primary objective is to investigate whether enhancing image resolution before object detection can improve the perception of non-static objects, particularly pedestrians and vehicles, under adverse environmental conditions.
 
 # Research Question
@@ -62,7 +63,7 @@ The datasets provide imagery representing challenging environmental conditions r
 	•	Snow
 	•	Sandstorms
 	
-The DAWN dataset contains real-world traffic imagery across different road environments, while ACDC provides adverse-condition imagery captured under several challenging conditions. The merged dataset was processed to create a custom detection dataset representing diverse environmental conditions
+The DAWN dataset contains real-world traffic imagery across different road environments, while ACDC provides adverse-condition imagery captured under several challenging conditions. The merged dataset was processed to create a custom detection dataset representing diverse environmental conditions.
 
 # 2. Data preprocessing
 
